@@ -25,12 +25,14 @@
 
 * a tool to email arbitrary files from the shell
 	* `$ mailfile --comment 'hi rod, here's the resume you asked for' --subject 'resume, jane avriette' --file Documents/Resume.pdf`
+	* like so? https://github.com/dcadenas/gmail_sender#examples
 
 * a tiny window with a quick reference of key shortcuts
 	* tmux
 	* emacs
 	* the idea here being it would hover around the edge or bottom of the screen, unobtrusive, like a minimized sticky and be e.g., 9pt or smaller monaco
 		* [Doing this right now instead. :(](http://puu.sh/5V6wt.png)
+	* how's this: http://www.mediaatelier.com/CheatSheet/
 
 * command line tool to paste to puu.sh or to push images
 	* `$ puu.sh file.txt`
